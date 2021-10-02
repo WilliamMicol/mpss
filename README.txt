@@ -1,0 +1,1 @@
+This project is a multiprocess submission server to compile and execute given code by utilizing multithreading and system calls. This is only part of the code from the working submit server as some bits of code are not allowed to be public released from the University of Maryland.
